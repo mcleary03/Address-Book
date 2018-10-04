@@ -1,0 +1,19 @@
+{
+  "name": "addressBook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "Michael Cleary",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "elasticsearch": "^15.1.1",
+    "express": "^4.16.3"
+  }
+}
